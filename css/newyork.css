@@ -1,16 +1,25 @@
 @charset "utf-8";
-
 p{
 	font-family: 'Potta One', cursive;
 	color: #46958C;
 	font-style: italic;	
 	
 }
+.mycontainer{
+	margin-left: 40px;
+	margin-right: 40px; 
+}
+
+#background{background-image: url("../image/wolkk.jfif");
+	background-size: 100%;
+
+}
 
 .header1{
 	color:#D78C5A; 
 }
 body{
+	margin: 0; 
 	background-color: #407679;  
 }
 
@@ -25,4 +34,4 @@ body{
 	color: #E87048; 
 	font-style: oblique;
 	
-}
+} 
