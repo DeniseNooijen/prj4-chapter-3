@@ -35,3 +35,33 @@ body{
 	font-style: oblique;
 	
 } 
+
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.body {
+	background-image: url("../download.jpg");
+	
+} 
+
+.title {
+	color: #DB8953 #;
+	text-align: center;
+	
+}
+
+.text-title {
+	color: #CBA1CA;
+	text-align: center;
+	
+}
+
+.card-footer {
+	color: #FFFFFF;
+	
+}
+.container {
+	
+	
+	color:#CBA1CA; 
+}
+.card-footer {position: absolute}
