@@ -30,6 +30,8 @@ body{
 ; 	background-image: url(../image/43f771d4c324448eedd9801dceb64118.jpg);
 }
 
+.footer{background-color: aqua;}
+
 #skyline{
 	color: #E87048; 
 	font-style: oblique;
@@ -44,7 +46,6 @@ body{
 } 
 
 .title {
-	color: #DB8953 #;
 	text-align: center;
 	
 }
@@ -62,6 +63,8 @@ body{
 .container {
 	
 	
-	color:#CBA1CA; 
+	color:#FC7700; 
 }
 .card-footer {position: absolute}
+
+
